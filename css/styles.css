@@ -1,14 +1,10 @@
-img.intro{
-  width: 500px;
-}
+.intro{
 
-h2.intro{
   color: gray;
-  text-align: center;
-
-}
-
-p.intro{
   font-style: italic;
   text-align: center;
+}
+
+img.intro{
+  width: 500px;
 }
